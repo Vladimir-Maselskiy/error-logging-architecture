@@ -114,3 +114,7 @@ Send real-time notifications on critical errors via modern messaging platforms.
 7. Is real-time alerting needed for all severities or only critical ones?
 
 ---
+
+## 5. Diagram 
+
+_See `diagrams/architecture.png`_
