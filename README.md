@@ -105,13 +105,16 @@ Send real-time notifications on critical errors via modern messaging platforms.
 
 ## 4. Developer Questions for the Product Owner
 
-1. Which platforms should the SDK support (Web, React Native, Node.js)?
-2. Do we need auth/user context in the logs (e.g., user ID)?
-3. Should we support grouping similar errors (e.g., by stack trace)?
+1. What is the minimum required functionality for the MVP, and what is the expected delivery timeline for it?
+2. Are there any wishes/restrictions on the use of technologies/services?
+3. What regular meetings are expected (daily stand-ups, sprint planning, demos)?
 4. Do you expect high-frequency logging? (e.g., frontends with 1M+ sessions)
-5. Do logs need to be encrypted at rest?
-6. What is the desired log retention policy?
-7. Is real-time alerting needed for all severities or only critical ones?
+5. Is real-time alerting needed for all severities or only critical ones?
+6. Which platforms should the SDK support (Web, React Native, Node.js)?
+7. Do we need auth/user context in the logs (e.g., user ID)?
+8. Should we support grouping similar errors (e.g., by stack trace)?
+9. What is the desired log retention policy?
+10. Do logs need to be encrypted at rest?
 
 ---
 
